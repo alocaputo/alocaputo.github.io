@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://ailab.uniud.it'>AILab Udine</a> @ Uniud
+subtitle: <a href='http://ailab.uniud.it'>AILAB Udine</a> @ Uniud
 
 profile:
   align: right
