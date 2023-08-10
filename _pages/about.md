@@ -6,7 +6,7 @@ subtitle: <a href='http://ailab.uniud.it'>AILAB Udine</a> @ Uniud
 
 profile:
   align: right
-  # image: prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
