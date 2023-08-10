@@ -13,27 +13,18 @@
   contents:
     - title: PhD
       institution: University of Udine, Udine, Italy
-      year: 2022-now
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: Nov 2022-now
     - title: Master Degree in Computer Science
       institution: University of Udine, Udine, Italy
-      #year: 1900
-      #description:
-      # - Description 1.
-      #  - Description 2.
+    - title: Bachelor Degree in Computer Science
+      institution: University of Udine, Udine, Italy
 
 - title: Experience
   type: time_table
   contents:
     - title: Reseach Intern
       institution: AILAB Udine, University of Udine
-      year: 2022
+      year: Aug 2022-Oct 2022
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -64,4 +55,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> [Cinema](http://letterboxd.com/mazamette) and [Running](https://www.strava.com/athletes/18170521).
