@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper [Filling the Lacunae in ancient Latin inscriptions](https://ceur-ws.org/Vol-3365/short5.pdf) has been accepted to [The Conference on Information and Research science Connecting to Digital and Library science 2023](https://lacam.di.uniba.it/IRCDL23/)
+My first paper [Filling the Lacunae in ancient Latin inscriptions](https://ceur-ws.org/Vol-3365/short5.pdf) has been accepted to **The Conference on Information and Research science Connecting to Digital and Library science 2023**
