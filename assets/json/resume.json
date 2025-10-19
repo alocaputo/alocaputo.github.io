@@ -87,7 +87,6 @@
   "volunteer": [
     {
       "organization": "TPDL 2023",
-      "location": "",
       "position": "Conference Reviewing",
       "url": "",
       "startDate": "2023-01-01",
@@ -97,7 +96,6 @@
     },
     {
       "organization": "ACL 2023",
-      "location": "",
       "position": "Conference Reviewing",
       "url": "",
       "startDate": "2023-01-01",
@@ -107,7 +105,6 @@
     },
     {
       "organization": "PACLIC 2023",
-      "location": "",
       "position": "Conference Reviewing",
       "url": "",
       "startDate": "2023-01-01",
@@ -117,9 +114,7 @@
     },
     {
       "organization": "PeerJ Computer Science",
-      "location": "",
       "position": "Journal reviewer",
-      "url": "",
       "startDate": "2023-01-01",
       "endDate": "2023-12-31",
       "summary": "",
@@ -127,7 +122,6 @@
     },
     {
       "organization": "Transactions on Multimedia Computing Communications and Applications",
-      "location": "",
       "position": "Journal reviewer",
       "url": "",
       "startDate": "2024-01-01",
@@ -137,7 +131,6 @@
     },
     {
       "organization": "International Journal on Digital Libraries",
-      "location": "",
       "position": "Journal reviewer",
       "url": "",
       "startDate": "2025-01-01",
@@ -147,7 +140,7 @@
     },
     {
       "organization": "AIxIA 2023",
-      "location": "",
+      "location": "Udine, Italy",
       "position": "Local Committee",
       "url": "",
       "startDate": "2022-01-01",
@@ -345,39 +338,26 @@
   ],
   "interests": [
     {
-      "name": "Cinema",
+      "name": "Arts",
+      "level": "",
       "icon": "",
-      "keywords": []
+      "keywords": [
+        "Cinema",
+        "Literature",
+        "Fine and Applied Art",
+        "Piano"
+      ]
     },
     {
-      "name": "running",
+      "name": "Sports",
+      "level": "",
       "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "cycling",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "bouldering",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "piano",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "literature",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "fine and applied art",
-      "icon": "",
-      "keywords": []
+      "keywords": [
+        "Running",
+        "Cycling",
+        "Bouldering",
+        "Basketball"
+      ]
     }
   ],
   "references": [],
