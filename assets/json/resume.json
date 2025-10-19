@@ -36,6 +36,7 @@
     {
       "name": "Umanistica Digitale",
       "position": "Journal Editor",
+      "location": "Udine, Italy",
       "url": "",
       "startDate": "2025-02-01",
       "endDate": "Present",
@@ -45,6 +46,7 @@
     {
       "name": "University of Udine",
       "position": "Organization",
+      "location": "Udine, Italy",
       "url": "",
       "startDate": "2025-02-01",
       "endDate": "2025-02-28",
@@ -54,6 +56,7 @@
     {
       "name": "University of Udine",
       "position": "Supervision",
+      "location": "Udine, Italy",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "Present",
@@ -63,6 +66,7 @@
     {
       "name": "University of Udine",
       "position": "Teaching Assistant",
+      "location": "Udine, Italy",
       "url": "",
       "startDate": "2023-10-01",
       "endDate": "2024-07-31",
@@ -72,6 +76,7 @@
     {
       "name": "AILAB Udine",
       "position": "Research Intern",
+      "location": "Udine, Italy",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2022-10-31",
@@ -79,7 +84,78 @@
       "highlights": []
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "TPDL 2023",
+      "location": "",
+      "position": "Conference Reviewing",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "The 27th International Conference on Theory and Practice of Digital Libraries",
+      "highlights": []
+    },
+    {
+      "organization": "ACL 2023",
+      "location": "",
+      "position": "Conference Reviewing",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "The 61st Annual Meeting of the Association for Computational Linguistics",
+      "highlights": []
+    },
+    {
+      "organization": "PACLIC 2023",
+      "location": "",
+      "position": "Conference Reviewing",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "The 37th Pacific Asia Conference on Language, Information and Computation",
+      "highlights": []
+    },
+    {
+      "organization": "PeerJ Computer Science",
+      "location": "",
+      "position": "Journal reviewer",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Transactions on Multimedia Computing Communications and Applications",
+      "location": "",
+      "position": "Journal reviewer",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "International Journal on Digital Libraries",
+      "location": "",
+      "position": "Journal reviewer",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "AIxIA 2023",
+      "location": "",
+      "position": "Local Committee",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "summary": "The 21st International Conference of the Italian Association for Artificial Intelligence",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of Udine",
@@ -141,14 +217,14 @@
       "date": "2025",
       "awarder": "",
       "url": "",
-      "summary": "Ranked 3rd among international participants for developing a model for literary epoch classification. [cite: 8] [cite_start]Collaboration with Democritus University of Thrace (DUTH) and Athens University of Economics and Business (AUEB). [cite: 8]"
+      "summary": "Ranked 3rd among international participants for developing a model for literary epoch classification. Collaboration with Democritus University of Thrace (DUTH) and Athens University of Economics and Business (AUEB)."
     },
     {
       "title": "Recipient of 64,000 computing hours on CINECA Leonardo HPC",
       "date": "2023",
       "awarder": "CINECA",
       "url": "",
-      "summary": "Conducted large-scale experiments on Deep Learning applications to Latin and Ancient Greek epigraphy. [cite: 8, 10] [cite_start]Utilized Python, PyTorch, JAX, and SLURM for distributed training and large-scale evaluation. [cite: 11]"
+      "summary": "Conducted large-scale experiments on Deep Learning applications to Latin and Ancient Greek epigraphy. Utilized Python, PyTorch, JAX, and SLURM for distributed training and large-scale evaluation."
     },
     {
       "title": "PhD Scholarship",
@@ -267,7 +343,43 @@
       "icon": ""
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Cinema",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "running",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "cycling",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "bouldering",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "piano",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "literature",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "fine and applied art",
+      "icon": "",
+      "keywords": []
+    }
+  ],
   "references": [],
   "projects": [
     {
