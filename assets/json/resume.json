@@ -1,200 +1,297 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alessandro Locaputo",
+    "label": "AI Scientist and NLP Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "locaputo.alessandro.gmail.com",
+    "phone": "",
+    "url": "locaputo.com",
+    "summary": "AI Scientist and NLP Researcher",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "San Vendemiano",
+      "countryCode": "IT",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "alessandro-locaputo",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "alocaputo",
+        "url": ""
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0003-1962-115X",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Umanistica Digitale",
+      "position": "Journal Editor",
+      "url": "",
+      "startDate": "2025-02-01",
+      "endDate": "Present",
+      "summary": "Special Issue on Digital Humanities and Artificial Intelligence.",
+      "highlights": []
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University of Udine",
+      "position": "Organization",
+      "url": "",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-28",
+      "summary": "Technical Chair of the 21st Conference on Information and Research Science Connecting to Digital and Library Science.",
+      "highlights": []
+    },
+    {
+      "name": "University of Udine",
+      "position": "Supervision",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Supervised and mentored multiple trainees, B.Sc., M.Sc., and Master's students on their thesis and traineeship projects.",
+      "highlights": []
+    },
+    {
+      "name": "University of Udine",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2023-10-01",
+      "endDate": "2024-07-31",
+      "summary": "Prepared teaching materials and delivered laboratory lectures for the Deep Learning course in the Computer Science Master's program.",
+      "highlights": []
+    },
+    {
+      "name": "AILAB Udine",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2022-10-31",
+      "summary": "Topics: Graph Neural Networks & Natural Language Processing.",
+      "highlights": []
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Udine",
+      "location": "Udine, Italy",
+      "url": "",
+      "area": "Natural Language Processing & Deep Learning for Digital Humanities.",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-11-01",
+      "endDate": "2025-10-31",
+      "score": "",
+      "courses": [
+        "Supervisor: Giuseppe Serra."
+      ]
+    },
+    {
+      "institution": "Athens University of Economics and Business",
+      "location": "Athens, Greece",
+      "url": "",
+      "area": "Deep Learning for Digital Humanities.",
+      "studyType": "Visiting PhD Student",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-30",
+      "score": "",
+      "courses": [
+        "Supervisor: John Pavlopoulos (AUEB NLP Group)"
+      ]
+    },
+    {
+      "institution": "University of Udine",
+      "location": "Udine, Italy",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2018-10-01",
+      "endDate": "2022-07-31",
+      "score": "",
+      "courses": [
+        "Specialization: Algorithms and Automated Reasoning.",
+        "Thesis title: Graph Neural Network for Calculating Forces and Energies of Iron Atom Structures."
+      ]
+    },
+    {
+      "institution": "University of Udine",
+      "location": "Udine, Italy",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2014-10-01",
+      "endDate": "2018-03-31",
+      "score": "",
+      "courses": [
+        "Thesis title: Utilizing Constraints and Preferences in GUI Generation."
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "3rd Place, ICDAR 2025 Colie Task 2",
+      "date": "2025",
+      "awarder": "",
+      "url": "",
+      "summary": "Ranked 3rd among international participants for developing a model for literary epoch classification. [cite: 8] [cite_start]Collaboration with Democritus University of Thrace (DUTH) and Athens University of Economics and Business (AUEB). [cite: 8]"
+    },
+    {
+      "title": "Recipient of 64,000 computing hours on CINECA Leonardo HPC",
+      "date": "2023",
+      "awarder": "CINECA",
+      "url": "",
+      "summary": "Conducted large-scale experiments on Deep Learning applications to Latin and Ancient Greek epigraphy. [cite: 8, 10] [cite_start]Utilized Python, PyTorch, JAX, and SLURM for distributed training and large-scale evaluation. [cite: 11]"
+    },
+    {
+      "title": "PhD Scholarship",
+      "date": "2022-11-01",
+      "awarder": "University of Udine, Italy",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "AI for the Restoration of Ancient Inscriptions: A Computational Linguistics Perspective",
+      "publisher": "Decoding Cultural Heritage (Springer)",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1007/978-3-031-57675-1_7",
+      "summary": "A. Locaputo, B. Portelli, S. Magnani, E. Colombi, and G. Serra"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Usage of Language Model for the Filling of Lacunae in Ancient Latin Inscriptions: A Case Study",
+      "publisher": "2nd Workshop on Artificial Intelligence for Cultural Heritage (IAI4CH 2023), AIxIA 2023",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "A. Brunello, A. Locaputo, S. Magnani, N. Saccomanno, and G. Serra"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Filling the lacunae in ancient Latin inscriptions",
+      "publisher": "19th Conference on Information and Research Science Connecting to Digital and Library Science",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "A. Locaputo, B. Portelli, E. Colombi, and G. Serra"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "Java",
+        "Haskell",
+        "C",
+        "C++",
+        "SQL",
+        "ETEX"
+      ]
+    },
+    {
+      "name": "ML/DL",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Transformers",
+        "Hugging Face",
+        "NumPy",
+        "Pandas",
+        "Spacy",
+        "NLTK",
+        "LLMS",
+        "YOLO"
+      ]
+    },
+    {
+      "name": "MLOps & Deployment",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Docker",
+        "REST APIs",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "SQL: PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "NoSQL: Redis",
+        "MongoDB",
+        "Vector: ChromaDB",
+        "FAISS"
+      ]
+    },
+    {
+      "name": "Cloud & HPC",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "SLURM",
+        "High-Performance Computing",
+        "Distributed Training"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Italian",
+      "fluency": "native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "professional proficiency",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "basic knowledge",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Chamber of Deputies (Italy)",
+      "summary": "Developed and deployed an assistive tool for automatic classification of legislative documents from initial conception through production release, now in active use.",
+      "highlights": [
+        "Implemented classification aligned with the EuroVoc thesaurus to ensure standardized categorization.",
+        "Tools Used: Python, PyTorch, BERT, LLMs, LangChain, Ollama."
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31",
+      "url": "dati.camera.it"
+    },
+    {
+      "name": "LACUNAE",
+      "summary": "Development of a digital tool that uses artificial intelligence to generate suggestions for the integration of lacunae in Greek and Latin epigraphic documents.",
+      "highlights": [
+        "Application of few-shot learning, transfer learning, fine-tuning and retrieval-augmented generation (RAG) to overcome data limitations.",
+        "Constructed novel datasets (textual and visual) to train and evaluate models.",
+        "Tools Used: Python, PyTorch, JAX, LLMS, RAG, DSPY, YOLO, and R."
+      ],
+      "startDate": "2022-11-01",
+      "endDate": "Present",
+      "url": "ai4ch.uniud.it"
     }
   ]
 }
